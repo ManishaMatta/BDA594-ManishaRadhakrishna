@@ -14,4 +14,4 @@
 
 4. (Optional) One photo. Make sure that you own the copyright of the photo.
    
-![IMG_20181117_081146](https://github.com/ManishaMatta/BDA594-ManishaRadhakrishna/assets/50313389/a0782bcb-abf5-48a3-b2ad-5640cb83fbbf)
+![8990A728-61CC-42A2-8603-8AD0EAE747C1](https://github.com/ManishaMatta/BDA594-ManishaRadhakrishna/assets/50313389/40781083-5a6c-472b-ad3b-630d0560f879)
