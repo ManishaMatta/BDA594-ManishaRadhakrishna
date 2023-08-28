@@ -24,6 +24,7 @@
 
 ![8990A728-61CC-42A2-8603-8AD0EAE747C1](https://github.com/ManishaMatta/BDA594-ManishaRadhakrishna/assets/50313389/40781083-5a6c-472b-ad3b-630d0560f879)
 
+
 **NOTE :** <font color="red">  Website is generated in 'BDA594_pages' branch [ Link : https://manishamatta.github.io/BDA594-ManishaRadhakrishna/ ]</font>
 
 --------------
@@ -78,9 +79,9 @@ Download Link: [https://web4.ensiie.fr/~stefania.dumbrava/GraphAlgorithms.pdf](h
 The book provides an introduction to fundamental graph algorithms, explaining their concepts, characteristics, and how they can be used to analyze various types of data and apply these algorithms to real-world scenarios. The book also provides practical examples and case studies, demonstrating how to use graph algorithms to solve specific problems. It also explores the integration of graph algorithms into data science workflows, allowing us to incorporate graph analysis into our broader data analysis processes.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="400" alt="Screenshot 2023-08-28 at 1 15 02 PM" src="https://github.com/ManishaMatta/BDA594-ManishaRadhakrishna/assets/50313389/8073b344-8db3-4e12-8ead-04d90622cf23">
+<img width="350" alt="Screenshot 2023-08-28 at 1 15 02 PM" src="https://github.com/ManishaMatta/BDA594-ManishaRadhakrishna/assets/50313389/8073b344-8db3-4e12-8ead-04d90622cf23">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="400" alt="Screenshot 2023-08-28 at 1 15 18 PM" src="https://github.com/ManishaMatta/BDA594-ManishaRadhakrishna/assets/50313389/0cff2e6e-5fb0-484f-a723-937e8c67a9db">
+<img width="350" alt="Screenshot 2023-08-28 at 1 15 18 PM" src="https://github.com/ManishaMatta/BDA594-ManishaRadhakrishna/assets/50313389/0cff2e6e-5fb0-484f-a723-937e8c67a9db">
 
 It offers insights into identifying and harnessing relational data to create intelligent solutions that improve machine-learning models. We can utilize this practical guide to explore the value of graph analytics, whether for constructing dynamic network models or predicting real-world behaviors.
 
@@ -89,4 +90,4 @@ In summary, this book equips us with the knowledge and practical skills needed t
 
 
 --------------
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thank you
