@@ -24,6 +24,9 @@
 
 ![8990A728-61CC-42A2-8603-8AD0EAE747C1](https://github.com/ManishaMatta/BDA594-ManishaRadhakrishna/assets/50313389/40781083-5a6c-472b-ad3b-630d0560f879)
 
+**NOTE :**
+<font color="red">  Website is generated in 'BDA594_pages' branch [ Link : https://manishamatta.github.io/BDA594-ManishaRadhakrishna/ ]</font>
+
 --------------
 ### LAB-1 Questions
 
