@@ -39,7 +39,7 @@ The Data Set selected is from the **data.gov** website (The home of the U.S. Gov
 
 **Current Employment Statistics (CES)**
 
-Data Set Link: https://catalog.data.gov/dataset/current-employment-statistics-ces
+Data Set Link: [https://catalog.data.gov/dataset/current-employment-statistics-ces](https://catalog.data.gov/dataset/current-employment-statistics-ces)
 
 The CES data on current employment by industry show jobs by **place of work**. The self-employed, unpaid family workers and private domestic employees are excluded. The employment figure does not represent a count of jobs held by locals but rather an estimate of the number of jobs in the area (independent of where the workers reside).
 This dataset offers insights into the current employment trends within various industrial sectors in California.
@@ -66,13 +66,17 @@ In summary, this dataset stands as a valuable resource, shedding light on the dy
 
 **8. Got to the free-data-science-book GitHub: https://GitHub.com/chaconnewu/free-data-science-books. Select one book from the list that interests you. Introduce the book on your website. Make sure you include its URL and its author/institute information. Also, explain briefly why you are interested in this book.**
 
-The Book selected from the free-data-science-book git repository is **Graph Algorithms: Practical Examples in Apache Spark and Neo4j** by *Mark Needham*, and *Amy E. Hodler*.
+The Book selected from the free-data-science-book git repository is 
 
-Download Link: https://web4.ensiie.fr/~stefania.dumbrava/GraphAlgorithms.pdf
+***Graph Algorithms: Practical Examples in Apache Spark and Neo4j*** 
+by *Mark Needham*, and *Amy E. Hodler*.
+
+Download Link: [https://web4.ensiie.fr/~stefania.dumbrava/GraphAlgorithms.pdf](https://web4.ensiie.fr/~stefania.dumbrava/GraphAlgorithms.pdf)
 
 The book provides an introduction to fundamental graph algorithms, explaining their concepts, characteristics, and how they can be used to analyze various types of data and apply these algorithms to real-world scenarios. The book also provides practical examples and case studies, demonstrating how to use graph algorithms to solve specific problems. It also explores the integration of graph algorithms into data science workflows, allowing us to incorporate graph analysis into our broader data analysis processes.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="400" alt="Screenshot 2023-08-28 at 1 15 02 PM" src="https://github.com/ManishaMatta/BDA594-ManishaRadhakrishna/assets/50313389/8073b344-8db3-4e12-8ead-04d90622cf23">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="400" alt="Screenshot 2023-08-28 at 1 15 02 PM" src="https://github.com/ManishaMatta/BDA594-ManishaRadhakrishna/assets/50313389/8073b344-8db3-4e12-8ead-04d90622cf23">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="400" alt="Screenshot 2023-08-28 at 1 15 18 PM" src="https://github.com/ManishaMatta/BDA594-ManishaRadhakrishna/assets/50313389/0cff2e6e-5fb0-484f-a723-937e8c67a9db">
 
