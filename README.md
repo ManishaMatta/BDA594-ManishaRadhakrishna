@@ -16,7 +16,7 @@
 
 > Data can be gathered from every human action happening around us. They can originate from multiple sources in many formats. To analyze these processes and draw an effective outcome, we need to gather and process these data. 
 
-> Thus, Big Data according to me would be collecting these large complex data which is generated in a pace not processable by human and thus need advanced techniques for analysing and extracting solution for the betterment of the society. 
+> Thus, Big Data according to me would be collecting large complex data that is generated in a pace not processable by humans and thus needs advanced techniques for analyzing and extracting solutions for the betterment of society. 
 
 4. (Optional) One photo. Make sure that you own the copyright of the photo.
 
@@ -50,30 +50,35 @@ Here's an overview of its contents:
 * It provides regional distribution of employment data.
 * This data spans over a period which would help us analyze its trend.
 
-<Add picture>
-
+<img width="672" alt="Screenshot 2023-08-28 at 12 26 15 PM" src="https://github.com/ManishaMatta/BDA594-ManishaRadhakrishna/assets/50313389/cdc68fdc-34e0-47ec-8e2f-9a8e8abee34f">
 
 Applications:
-* Government bodies can analyze this trends to build policies, while local administrations can resolve employment challenges for regional development.
+* Government bodies can analyze these trends to build policies, while local administrations can resolve employment challenges for regional development.
 * Researchers and economists can explore the relationship between employment, economic growth, and other factors.
-* Businesses can utilize this data for strategic workforce planning to refine staffing strategies and its growth, while labor market consultants can aid job seekers with demand trends.
+* Businesses can utilize this data for strategic workforce planning to refine staffing strategies and their growth, while labor market consultants can aid job seekers with demand trends.
 
 In summary, this dataset stands as a valuable resource, shedding light on the dynamic employment landscape in California. It empowers various stakeholders, from policymakers to businesses, by providing insights into the state's economic vitality and workforce dynamics.
+
 
 **4. Introduce ONE selected “free-data-science-book” with its URL and author/institute information. Explain briefly why you are interested in this book.**
 
 (or)
 
-**8. Got to the free-data-science-book GitHub: https://GitHub.com/chaconnewu/free-data-science-books. Select one book from the list that interests you. Introduce the book on your website. Make sure you include its URL and its author/institute information. Also explain briefly why you are interested in this book.**
+**8. Got to the free-data-science-book GitHub: https://GitHub.com/chaconnewu/free-data-science-books. Select one book from the list that interests you. Introduce the book on your website. Make sure you include its URL and its author/institute information. Also, explain briefly why you are interested in this book.**
 
 The Book selected from the free-data-science-book git repository is **Graph Algorithms: Practical Examples in Apache Spark and Neo4j** by *Mark Needham*, and *Amy E. Hodler*.
 
-Download Link : https://web4.ensiie.fr/~stefania.dumbrava/GraphAlgorithms.pdf
+Download Link: https://web4.ensiie.fr/~stefania.dumbrava/GraphAlgorithms.pdf
 
 The book provides an introduction to fundamental graph algorithms, explaining their concepts, characteristics, and how they can be used to analyze various types of data and apply these algorithms to real-world scenarios. The book also provides practical examples and case studies, demonstrating how to use graph algorithms to solve specific problems. It also explores the integration of graph algorithms into data science workflows, allowing us to incorporate graph analysis into our broader data analysis processes.
 
-It offers insights into identifying and harnessing relational data to create intelligent solutions which improve machine learning models. We can utilize this practical guide to explore the value of graph analytics, whether for constructing dynamic network models or predicting real-world behaviors.
+<img width="250" alt="Screenshot 2023-08-28 at 1 15 02 PM" src="https://github.com/ManishaMatta/BDA594-ManishaRadhakrishna/assets/50313389/8073b344-8db3-4e12-8ead-04d90622cf23">
+<img width="250" alt="Screenshot 2023-08-28 at 1 15 18 PM" src="https://github.com/ManishaMatta/BDA594-ManishaRadhakrishna/assets/50313389/0cff2e6e-5fb0-484f-a723-937e8c67a9db">
+
+It offers insights into identifying and harnessing relational data to create intelligent solutions that improve machine-learning models. We can utilize this practical guide to explore the value of graph analytics, whether for constructing dynamic network models or predicting real-world behaviors.
 
 In summary, this book equips us with the knowledge and practical skills needed to understand, implement, and use graph algorithms for data analysis and decision-making.
+
+
 
 --------------
